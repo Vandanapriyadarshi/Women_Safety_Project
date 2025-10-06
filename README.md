@@ -65,6 +65,7 @@ streamlit run app.py
 
 
 Open your browser and navigate to http://localhost:8501 to use the interactive system.
+http://localhost:8501/#women-safety-and-risk-prediction-system
 
 Outcome
 
